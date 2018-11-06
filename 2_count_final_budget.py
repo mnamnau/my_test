@@ -39,6 +39,8 @@ part_of_total = postbuy_results['total_marketing_investment']
 total_percent = (part_of_total*100) / total
 print("Vycerpano je " + str(round(total_percent)) + " % z celkoveho rozpoctu.")
 
+#Vycerpano je 80 % z celkoveho rozpoctu.
+
 '''
 output = {
     "plan": plan_result,

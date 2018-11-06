@@ -38,4 +38,5 @@ part_of_total_broadcasted = output['broadcasted']
 total_percent_broadcasted = (part_of_total_broadcasted*100) / total
 
 print("Podil odvysilanych kampani je " + str(round(total_percent_broadcasted)) + " % z celkoveho rozpoctu.")
+#Podil odvysilanych kampani je 83 % z celkoveho rozpoctu.
 
